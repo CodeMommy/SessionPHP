@@ -1,7 +1,7 @@
 {
   "name": "codemommy/sessionphp",
   "version": "0.0.1",
-  "description": "CodeMommy SessionPHP is a session helper for web development.",
+  "description": "Operate session for web",
   "keywords": [
     "CodeMommy",
     "SessionPHP",

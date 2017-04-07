@@ -6,8 +6,7 @@
 [![Unstable](https://poser.pugx.org/CodeMommy/SessionPHP/v/unstable?format=flat-square)](https://packagist.org/packages/CodeMommy/SessionPHP)
 [![composer.lock Available](https://poser.pugx.org/CodeMommy/SessionPHP/composerlock?format=flat-square)](https://packagist.org/packages/CodeMommy/SessionPHP)
 
-
-> CodeMommy SessionPHP is a request helper for web development.
+> Operate session for web
 
 Visit [CodeMommy Website](http://www.codemommy.com) or [Packagist](https://packagist.org/packages/CodeMommy/SessionPHP) to get more information.
 
